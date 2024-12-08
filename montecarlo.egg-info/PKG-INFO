@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: montecarlo
+Version: 0.1.0
+Summary: Monte Carlo Simulator for DS5100 final project at University of Virginia MSDS
+Home-page: https://github.com/liamrdonoghue/montecarlo
+Author: Liam Donoghue
+Author-email: bat7kt@virginia.edu
+License: LICENSE.txt
+License-File: LICENSE
+
 # Metadata
 --------
 Project name: Monte Carlo Simulator
